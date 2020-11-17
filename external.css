@@ -1,0 +1,17 @@
+/* external.css
+ * for zanecrowell.com 
+ */
+
+body {
+    background-color: gray;
+}
+
+.picture {
+    display: block;
+    margin-left:auto;
+    margin-right: auto;    
+}
+
+.title {
+    text-align: center;
+}
